@@ -36,4 +36,31 @@ public class AppiumTest {
 		System.out.println("IOSApps");
 		System.out.println("IOSApps");
 	}
+
+	@Test
+	public void IOSApps4()
+	{
+		System.out.println("IOSApps");
+
+		System.out.println("IOSApps");
+		System.out.println("IOSApps");
+	}
+
+	@Test
+	public void IOSApps5()
+	{
+		System.out.println("IOSApps");
+
+		System.out.println("IOSApps");
+		System.out.println("IOSApps");
+	}
+
+	@Test
+	public void IOSApp6()
+	{
+		System.out.println("IOSApps");
+
+		System.out.println("IOSApps");
+		System.out.println("IOSApps");
+	}
 }
